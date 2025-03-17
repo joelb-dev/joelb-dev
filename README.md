@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on AI, data science, and database engineering
 - 📫 How to reach me joelbmonger@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a purple belt in BJJ
 
 <!---
 joelb-dev/joelb-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
